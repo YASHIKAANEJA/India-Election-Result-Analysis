@@ -28,12 +28,12 @@ The dashboard's color scheme was intentionally designed to align with the offici
 ## How to View/Run
 - Below are screenshots of the dashboard to showcase the quality of the work:
   
-- ![Landing Page] - https://github.com/YASHIKAANEJA/India-Election-Result-Analysis/blob/main/Landing%20page.png
-- ![Overview Analysis] - https://github.com/YASHIKAANEJA/India-Election-Result-Analysis/blob/main/Overview%20Analysis.png
-- ![State Demographic Analysis] - https://github.com/YASHIKAANEJA/India-Election-Result-Analysis/blob/main/State%20Demographic%20Analysis.png
-- ![Political Landscape By state] - https://github.com/YASHIKAANEJA/India-Election-Result-Analysis/blob/main/Political%20Landscape%20by%20state.png
-- ![Constituency Analysis] - https://github.com/YASHIKAANEJA/India-Election-Result-Analysis/blob/main/Constituency%20Analysis.png
-- ![Details Grid] - https://github.com/YASHIKAANEJA/India-Election-Result-Analysis/blob/main/Details%20Grid.png
+- [Landing Page] - https://github.com/YASHIKAANEJA/India-Election-Result-Analysis/blob/main/Landing%20page.png
+- [Overview Analysis] - https://github.com/YASHIKAANEJA/India-Election-Result-Analysis/blob/main/Overview%20Analysis.png
+- [State Demographic Analysis] - https://github.com/YASHIKAANEJA/India-Election-Result-Analysis/blob/main/State%20Demographic%20Analysis.png
+- [Political Landscape By state] - https://github.com/YASHIKAANEJA/India-Election-Result-Analysis/blob/main/Political%20Landscape%20by%20state.png
+- [Constituency Analysis] - https://github.com/YASHIKAANEJA/India-Election-Result-Analysis/blob/main/Constituency%20Analysis.png
+- [Details Grid] - https://github.com/YASHIKAANEJA/India-Election-Result-Analysis/blob/main/Details%20Grid.png
 
 ## Acknowledgments
 - Thanks to the contributors and datasets that made this project possible.
