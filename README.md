@@ -1,5 +1,5 @@
 #  Interactive Power BI Dashboard: India Lok Sabha Election Results 2024 Analysis
-This repository showcases a comprehensive and interactive Power BI dashboard analyzing the 2024 Indian Lok Sabha General Elections. The primary goal is to transform raw election data into actionable insights, providing a deep dive into party performance, candidate victories, and overall political landscape across India.
+Built an India Election Analysis project using PostgreSQL and Power BI to analyze Lok Sabha election data through advanced SQL queries and interactive dashboards. Solved business questions related to alliance performance, seat distribution, vote analysis, winning margins, and constituency-wise results using joins, CTEs, aggregations, and window functions.
 
 ## Key Features & Dashboards
 This project features **6 interconnected dashboards** built with advanced Power BI techniques:
@@ -24,6 +24,7 @@ The dashboard's color scheme was intentionally designed to align with the offici
 ## Technologies Used
 - **Primary Tool:** Microsoft Power BI
 - **Key Skills:** DAX, Bookmarks, Data Modeling, Interactive Visualization ,Filters, KPI'S , Data Analysis, Data Storytelling
+- **PostGreSQL:** Wrote advanced SQL queries in PostgreSQL using joins, CTEs, subqueries, aggregations, and window functions.
 
 ## How to View/Run
 - Below are screenshots of the dashboard to showcase the quality of the work:
